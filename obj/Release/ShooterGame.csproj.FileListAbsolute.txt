@@ -1,0 +1,8 @@
+C:\Users\sashakrassovsky\Desktop\Alumni\bin\Release\ShooterGame.exe.config
+C:\Users\sashakrassovsky\Desktop\Alumni\bin\Release\ShooterGame.exe
+C:\Users\sashakrassovsky\Desktop\Alumni\bin\Release\ShooterGame.pdb
+C:\Users\sashakrassovsky\Desktop\Alumni\obj\Release\ShooterGame.Properties.Resources.resources
+C:\Users\sashakrassovsky\Desktop\Alumni\obj\Release\ShooterGame.csproj.GenerateResource.cache
+C:\Users\sashakrassovsky\Desktop\Alumni\obj\Release\ShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\sashakrassovsky\Desktop\Alumni\obj\Release\ShooterGame.exe
+C:\Users\sashakrassovsky\Desktop\Alumni\obj\Release\ShooterGame.pdb
